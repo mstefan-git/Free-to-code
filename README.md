@@ -1,6 +1,4 @@
-# RPubs-Beating-the-Bookies
-
-Replication files for https://rpubs.com/mstefan-rpubs/arbitrage-betting
+# RPubs: Beating the Bookies
 
 Part 1: Premier League only, no compound interest
 
