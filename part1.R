@@ -1,5 +1,5 @@
 # Replication file for: "Beating the Bookies"
-# RPubs-link: https://rpubs.com/mstefan-rpubs
+# RPubs-link: https://rpubs.com/mstefan-rpubs/arbitrage-betting
 # (c) Martin Stefan, June 2020
 
 # PART I: PREMIER LEAGUE ONLY, NO COMPOUND INTEREST
